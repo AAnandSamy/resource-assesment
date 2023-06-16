@@ -1,4 +1,4 @@
-# resource-assesment
+# Resource-assesment
 
 ### Skill sets
 - Flutter
