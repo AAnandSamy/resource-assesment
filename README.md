@@ -2,7 +2,7 @@
 
 ## UI 
 - Flutter
-- UI tool kitFigma,Material view -3
+- UI tool kit(Figma),Material view -3
 ## Backend-as-Service(BaaS)
 - BLOC(Dart)
 - Database firebase
