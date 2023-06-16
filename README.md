@@ -1,12 +1,18 @@
 # Resource-assesment
 
-### Skill sets
+## UI 
 - Flutter
-- Dart
-- BaaS(dart/node js/java/java scripts...)
-- Database with BaaS, like firebase,appwrite,altas(mongo)...etc
-- UI - Figma,Material view -3
-- -
-- Arch (MVC/MVVM/Clean-code-Arch)
+- UI tool kitFigma,Material view -3
+## Backend-as-Service(BaaS)
+- BLOC(Dart)
+- Database firebase
+# Hosting 
+ - Firebase
+## Platforms
 - Single code base for all platform (Web, Android, IOS, Windows, MAC)
+## Arch
+-  MVC
+-  MVVM
+-  Clean-code-Arc
+
 
