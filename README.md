@@ -9,7 +9,12 @@
 # Hosting 
  - Firebase
 ## Platforms
-- Single code base for all platform (Web, Android, IOS, Windows, MAC)
+- Single code base for all platform 
+- Web
+- Android
+- IOS
+- Windows
+- MAC
 ## Arch
 -  MVC
 -  MVVM
