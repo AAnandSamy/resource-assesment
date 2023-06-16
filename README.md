@@ -1,4 +1,4 @@
-# Resource-assesment
+# Tech Stack 
 
 ## UI 
 - Flutter
